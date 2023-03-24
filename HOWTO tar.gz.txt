@@ -1,0 +1,9 @@
+
+-x extracxt
+-f file
+-v visible
+-C change to Dir
+
+tar -xf [FILENAME]
+
+tar -cfvz [ARCHIV].tar.gz [VERZEICHNIS]
